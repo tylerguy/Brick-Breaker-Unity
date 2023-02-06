@@ -28,7 +28,7 @@ public class UpdateScore : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -46,7 +46,7 @@ public class UpdateScore : MonoBehaviour
         Score8.text = (Score.EighthScore).ToString();
         Score9.text = (Score.NinethScore).ToString();
         Score10.text = (Score.TenthScore).ToString();
-        
+
 
         //update player names
         Score1Player.text = Score.FirstPlayer;
@@ -60,5 +60,20 @@ public class UpdateScore : MonoBehaviour
         Score9Player.text = Score.NinethPlayer;
         Score10Player.text = Score.TenthPlayer;
 
+
+        // store scores in player prefs
+        PlayerPrefs.SetInt("FirstScore", Score.FirstScore);
+        PlayerPrefs.SetInt("SecondScore", Score.SecondScore);
+        PlayerPrefs.SetInt("ThirdScore", Score.ThirdScore);
+        PlayerPrefs.SetInt("FourthScore", Score.FourthScore);
+        PlayerPrefs.SetInt("FifthScore", Score.FifthScore);
+        PlayerPrefs.SetInt("SixthScore", Score.SixthScore);
+        PlayerPrefs.SetInt("SeventhScore", Score.SeventhScore);
+        PlayerPrefs.SetInt("EighthScore", Score.EighthScore);
+        PlayerPrefs.SetInt("NinethScore", Score.NinethScore);
+        PlayerPrefs.SetInt("TenthScore", Score.TenthScore);
+
     }
+
+
 }

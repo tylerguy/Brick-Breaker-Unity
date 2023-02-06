@@ -880,7 +880,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timeRemaining: 100
   timerIsRunning: 0
-  timer: {fileID: 0}
+  timer: {fileID: 574907818}
 --- !u!114 &519420035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1217,26 +1217,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e38e73a40fbc66e43be93087813f8d42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Score1Player: {fileID: 0}
-  Score2Player: {fileID: 0}
-  Score3Player: {fileID: 0}
-  Score4Player: {fileID: 0}
-  Score5Player: {fileID: 0}
-  Score6Player: {fileID: 0}
-  Score7Player: {fileID: 0}
-  Score8Player: {fileID: 0}
-  Score9Player: {fileID: 0}
-  Score10Player: {fileID: 0}
-  Score1: {fileID: 5322983452615583269}
-  Score2: {fileID: 0}
-  Score3: {fileID: 0}
-  Score4: {fileID: 0}
-  Score5: {fileID: 0}
-  Score6: {fileID: 0}
-  Score7: {fileID: 0}
-  Score8: {fileID: 0}
-  Score9: {fileID: 0}
-  Score10: {fileID: 0}
+  Score1Player: {fileID: 1529091935}
+  Score2Player: {fileID: 794472534}
+  Score3Player: {fileID: 1137557969}
+  Score4Player: {fileID: 893587665}
+  Score5Player: {fileID: 1657570951}
+  Score6Player: {fileID: 179949904}
+  Score7Player: {fileID: 580262718}
+  Score8Player: {fileID: 1725743128}
+  Score9Player: {fileID: 1525812433}
+  Score10Player: {fileID: 2087478971}
+  Score1: {fileID: 868984658}
+  Score2: {fileID: 982842617}
+  Score3: {fileID: 610218226}
+  Score4: {fileID: 973018006}
+  Score5: {fileID: 2056628850}
+  Score6: {fileID: 371586683}
+  Score7: {fileID: 1489580986}
+  Score8: {fileID: 1102983046}
+  Score9: {fileID: 1052714659}
+  Score10: {fileID: 1907545633}
 --- !u!1001 &1009427820
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1512,6 +1512,36 @@ TextMesh:
     type: 3}
   m_PrefabInstance: {fileID: 407344232}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1141076592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1141076593}
+  m_Layer: 0
+  m_Name: BarrierLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1141076593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1141076592}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.667596, y: -3.1587725, z: 190.53877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1283616611
 GameObject:
   m_ObjectHideFlags: 0
@@ -3274,7 +3304,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7486dc0191dffd4e82e5fb1d60d4313, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
+  sound: {fileID: 8300000, guid: 7ee366cc5a62d4a44a0c01c4b2663c18, type: 3}
   Projectile: {fileID: 378608061461824964, guid: 37368a5f74daea144bb87cbdcbd862aa,
     type: 3}
   SpawnTransform: {fileID: 1758665170}

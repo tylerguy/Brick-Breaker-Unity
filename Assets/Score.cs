@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Score : MonoBehaviour
 {
+
+
     public static int FirstScore = 0;
     public static int SecondScore = 0;
     public static int ThirdScore = 0;
@@ -45,9 +47,26 @@ public class Score : MonoBehaviour
     public string TempNinethPlayer;
     public string TempTenthPlayer;
 
+
+    private void Start()
+    {
+        //get scores from player prefs
+        FirstScore = PlayerPrefs.GetInt("FirstScore");
+        SecondScore = PlayerPrefs.GetInt("SecondScore");
+        ThirdScore = PlayerPrefs.GetInt("ThirdScore");
+        FourthScore = PlayerPrefs.GetInt("FourthScore");
+        FifthScore = PlayerPrefs.GetInt("FifthScore");
+        SixthScore = PlayerPrefs.GetInt("SixthScore");
+        SeventhScore = PlayerPrefs.GetInt("SeventhScore");
+        EighthScore = PlayerPrefs.GetInt("EighthScore");
+        NinethScore = PlayerPrefs.GetInt("NinethScore");
+        TenthScore = PlayerPrefs.GetInt("TenthScore");
+
+
+    }
     private void Update()
     {
-        
+
         if (FirstScore < SecondScore)
         {
             //update score
