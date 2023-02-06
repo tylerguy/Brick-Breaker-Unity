@@ -111,7 +111,7 @@ TextureImporter:
       213: -8742478284093920270
     second: bricks-cropped_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -132,6 +132,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -170,6 +171,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,54 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 1
     textureFormat: -1
@@ -964,6 +1014,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bricks-cropped_2: 4160008637175428862
+      bricks-cropped_27: 3386769291697930190
+      bricks-cropped_11: -5347966445732330819
+      bricks-cropped_13: 3586078828455782221
+      bricks-cropped_16: 3692003383084594357
+      bricks-cropped_3: 6864454992093670883
+      bricks-cropped_10: 2129947303237305786
+      bricks-cropped_31: 129467861421142323
+      bricks-cropped_5: 8467152191063429024
+      bricks-cropped_33: 1031989694724696075
+      bricks-cropped_4: 5726956453844558400
+      bricks-cropped_0: 6304321237209891700
+      bricks-cropped_14: -2952921375961948114
+      bricks-cropped_20: 5776944558325858709
+      bricks-cropped_7: -4046734805478579914
+      bricks-cropped_8: 6992461592998216652
+      bricks-cropped_12: -3040163333422058747
+      bricks-cropped_9: 2884168150565461036
+      bricks-cropped_17: -3597708629163577016
+      bricks-cropped_24: -9177060148069135841
+      bricks-cropped_1: -8855289776929026186
+      bricks-cropped_22: -5161774570316533326
+      bricks-cropped_28: -6684069891533136495
+      bricks-cropped_19: -6949269136537753507
+      bricks-cropped_26: 5781254417379057990
+      bricks-cropped_30: 8524934863498130126
+      bricks-cropped_6: 2976835627356181534
+      bricks-cropped_15: 9084693093997290000
+      bricks-cropped_25: 1855651748593932328
+      bricks-cropped_21: 2573476689132253779
+      bricks-cropped_34: -5191017339185585634
+      bricks-cropped_29: 4486359644956434192
+      bricks-cropped_32: -1467395218551998027
+      bricks-cropped_35: -8742478284093920270
+      bricks-cropped_23: 1333554790006326037
+      bricks-cropped_18: 3985406092838989659
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -7,7 +7,6 @@ public class playermovement : MonoBehaviour
 
     public GameObject Player;
     public float speed;
-    public GameObject Enemy;
     
 
     
@@ -37,14 +36,6 @@ public class playermovement : MonoBehaviour
             Player.transform.position += Vector3.right * speed * Time.deltaTime;
         }
 
-        
-
-
-
-        Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        Vector2 direction = mousePosition - Player.transform.position;
-        float angle = Vector2.SignedAngle(Vector2.up, direction);
-        Player.transform.eulerAngles = new Vector3(0, 0, angle);
 
        }
 
