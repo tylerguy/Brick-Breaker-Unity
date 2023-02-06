@@ -35,9 +35,26 @@ public class playermovement : MonoBehaviour
             Debug.Log("Right Pressed");
             Player.transform.position += Vector3.right * speed * Time.deltaTime;
         }
-
-
+        // if (Input.GetKey(KeyCode.UpArrow) | Input.GetKey(KeyCode.W)) 
+        // {
+        //     Debug.Log("Up Pressed");
+        //     Player.transform.position += Vector3.up * speed * Time.deltaTime;
+        // }
+        // if(Input.GetKey(KeyCode.DownArrow) | Input.GetKey(KeyCode.S)) {
+        //     Player.transform.position += Vector3.down * speed * Time.deltaTime;
+        //     Debug.Log("Down Pressed");
+        // }
+        
+        
        }
+
+       void OnCollisionEnter2D(Collision2D collision) {
+        Debug.Log(collision);
+       }
+
+
+
+       
 
 
     

@@ -254,10 +254,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 80
-        width: 16
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,18 +273,18 @@ TextureImporter:
       name: bricks-cropped_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 32
         y: 80
-        width: 16
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67f4ffe7dd0bb1580800000000000000
+      spriteID: f3d9bdf5e110c94469b876d426863cc0
       internalID: -8855289776929026186
       vertices: []
       indices: 
@@ -294,18 +294,18 @@ TextureImporter:
       name: bricks-cropped_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 64
         y: 80
-        width: 16
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef6f56990d15bb930800000000000000
+      spriteID: 81c4861721fac3d499b7099ceffb9ed9
       internalID: 4160008637175428862
       vertices: []
       indices: 
@@ -315,18 +315,18 @@ TextureImporter:
       name: bricks-cropped_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 80
-        width: 16
+        x: 0
+        y: 64
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ed66642271734f50800000000000000
+      spriteID: 440ce3fc85d576b489e6744d627a3fc8
       internalID: 6864454992093670883
       vertices: []
       indices: 
@@ -336,18 +336,18 @@ TextureImporter:
       name: bricks-cropped_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 80
-        width: 16
+        x: 32
+        y: 64
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04229835d8c3a7f40800000000000000
+      spriteID: 9754d0b1a93190e4ea9e3d6feed14989
       internalID: 5726956453844558400
       vertices: []
       indices: 
@@ -357,18 +357,18 @@ TextureImporter:
       name: bricks-cropped_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
+        x: 64
+        y: 64
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0af818f8e0e518570800000000000000
+      spriteID: abdaad4e6a199934ba6acaa2a8191022
       internalID: 8467152191063429024
       vertices: []
       indices: 
@@ -379,17 +379,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 16
+        y: 48
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e14da4b2b38df4920800000000000000
+      spriteID: d6f82126489285c419b2637aa91e3195
       internalID: 2976835627356181534
       vertices: []
       indices: 
@@ -399,18 +399,18 @@ TextureImporter:
       name: bricks-cropped_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
+        x: 32
+        y: 48
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6316d3b822c17d7c0800000000000000
+      spriteID: dd3235132b51d344eb38d90aaf28644a
       internalID: -4046734805478579914
       vertices: []
       indices: 
@@ -420,18 +420,18 @@ TextureImporter:
       name: bricks-cropped_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
+        x: 64
+        y: 48
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc3883c65c63a0160800000000000000
+      spriteID: 00c3ac21ad6ee7c44ad009ebfa7fd04b
       internalID: 6992461592998216652
       vertices: []
       indices: 
@@ -441,18 +441,18 @@ TextureImporter:
       name: bricks-cropped_9
       rect:
         serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
+        x: 0
+        y: 32
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2c13f6e6af960820800000000000000
+      spriteID: 9c51e66d5e3fabb4e8d856dca4eb7bbf
       internalID: 2884168150565461036
       vertices: []
       indices: 
@@ -462,18 +462,18 @@ TextureImporter:
       name: bricks-cropped_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 16
+        x: 32
+        y: 32
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab5c2cf89c71f8d10800000000000000
+      spriteID: d52d3ac8b3afbba478ffb115e7b7e5ff
       internalID: 2129947303237305786
       vertices: []
       indices: 
@@ -483,18 +483,18 @@ TextureImporter:
       name: bricks-cropped_11
       rect:
         serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
+        x: 64
+        y: 32
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db28a633ad438c5b0800000000000000
+      spriteID: 9445bb0be8537a6488f2b7c40a0fb767
       internalID: -5347966445732330819
       vertices: []
       indices: 
@@ -505,17 +505,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
-        width: 16
+        y: 16
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 503f5344e8b2fc5d0800000000000000
+      spriteID: 14bfa0675fc95804799ed26647fbe7a4
       internalID: -3040163333422058747
       vertices: []
       indices: 
@@ -525,18 +525,18 @@ TextureImporter:
       name: bricks-cropped_13
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
+        x: 32
+        y: 16
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d47e7a2d1bf44c130800000000000000
+      spriteID: 521a87cf10f8a364eb65f8411cd77ef3
       internalID: 3586078828455782221
       vertices: []
       indices: 
@@ -546,18 +546,18 @@ TextureImporter:
       name: bricks-cropped_14
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
+        x: 64
+        y: 16
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e20612067ad1507d0800000000000000
+      spriteID: 6f8ed0acc0c0eae4fb5d808e0b3c1ca4
       internalID: -2952921375961948114
       vertices: []
       indices: 
@@ -567,18 +567,18 @@ TextureImporter:
       name: bricks-cropped_15
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
+        x: 0
+        y: 0
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01227297c30531e70800000000000000
+      spriteID: 927d16cc0bd16fd48b3f59ac6ec32bce
       internalID: 9084693093997290000
       vertices: []
       indices: 
@@ -588,18 +588,18 @@ TextureImporter:
       name: bricks-cropped_16
       rect:
         serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
+        x: 32
+        y: 0
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b43c4e0481ac3330800000000000000
+      spriteID: 9b477c396dec994479e8f394d9b758f5
       internalID: 3692003383084594357
       vertices: []
       indices: 
@@ -609,397 +609,19 @@ TextureImporter:
       name: bricks-cropped_17
       rect:
         serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
+        x: 64
+        y: 0
+        width: 32
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 841f851301f521ec0800000000000000
+      spriteID: e0818fa6ea3052d4a9ea430e9da45c88
       internalID: -3597708629163577016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_18
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5f6851d9b10f4730800000000000000
-      internalID: 3985406092838989659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_19
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d58e4140a8c3f8f90800000000000000
-      internalID: -6949269136537753507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_20
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 591832ed774db2050800000000000000
-      internalID: 5776944558325858709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_21
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 352f975f963d6b320800000000000000
-      internalID: 2573476689132253779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_22
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b173a56061bd58b0800000000000000
-      internalID: -5161774570316533326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_23
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51309da140db18210800000000000000
-      internalID: 1333554790006326037
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_24
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1a02ffda6884a080800000000000000
-      internalID: -9177060148069135841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_25
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82816c50f6990c910800000000000000
-      internalID: 1855651748593932328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_26
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 641690023442b3050800000000000000
-      internalID: 5781254417379057990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_27
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecf3bd71ab8300f20800000000000000
-      internalID: 3386769291697930190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_28
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19d984de8d96d33a0800000000000000
-      internalID: -6684069891533136495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_29
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01f964cc350c24e30800000000000000
-      internalID: 4486359644956434192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec236206717ae4670800000000000000
-      internalID: 8524934863498130126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_31
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33136d18556fbc100800000000000000
-      internalID: 129467861421142323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_32
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b9f915c2d3c2abe0800000000000000
-      internalID: -1467395218551998027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_33
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b08ededd82d525e00800000000000000
-      internalID: 1031989694724696075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_34
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1223f2bb3dc5f7b0800000000000000
-      internalID: -5191017339185585634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bricks-cropped_35
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2fbe30cf15a7ca680800000000000000
-      internalID: -8742478284093920270
       vertices: []
       indices: 
       edges: []
@@ -1016,41 +638,23 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       bricks-cropped_2: 4160008637175428862
-      bricks-cropped_27: 3386769291697930190
       bricks-cropped_11: -5347966445732330819
       bricks-cropped_13: 3586078828455782221
       bricks-cropped_16: 3692003383084594357
       bricks-cropped_3: 6864454992093670883
       bricks-cropped_10: 2129947303237305786
-      bricks-cropped_31: 129467861421142323
       bricks-cropped_5: 8467152191063429024
-      bricks-cropped_33: 1031989694724696075
       bricks-cropped_4: 5726956453844558400
       bricks-cropped_0: 6304321237209891700
       bricks-cropped_14: -2952921375961948114
-      bricks-cropped_20: 5776944558325858709
       bricks-cropped_7: -4046734805478579914
       bricks-cropped_8: 6992461592998216652
       bricks-cropped_12: -3040163333422058747
       bricks-cropped_9: 2884168150565461036
       bricks-cropped_17: -3597708629163577016
-      bricks-cropped_24: -9177060148069135841
       bricks-cropped_1: -8855289776929026186
-      bricks-cropped_22: -5161774570316533326
-      bricks-cropped_28: -6684069891533136495
-      bricks-cropped_19: -6949269136537753507
-      bricks-cropped_26: 5781254417379057990
-      bricks-cropped_30: 8524934863498130126
       bricks-cropped_6: 2976835627356181534
       bricks-cropped_15: 9084693093997290000
-      bricks-cropped_25: 1855651748593932328
-      bricks-cropped_21: 2573476689132253779
-      bricks-cropped_34: -5191017339185585634
-      bricks-cropped_29: 4486359644956434192
-      bricks-cropped_32: -1467395218551998027
-      bricks-cropped_35: -8742478284093920270
-      bricks-cropped_23: 1333554790006326037
-      bricks-cropped_18: 3985406092838989659
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
